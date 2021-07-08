@@ -6,9 +6,9 @@
 }
 
 .avt{
-    width: 130px;
-    height: 130px;
-    background-color: burlywood;
+    width: 150px;
+    height: 150px;
+    background-color: gainsboro;
     border-radius: 50%;
     display: block;
     margin: 0 auto;
@@ -17,13 +17,13 @@
 
 h1{
     text-align: center;
-    margin: 20px auto 100px;
+    margin: 30px auto 100px;
     font-weight: 800;
     font-size: 30px;
 }
 
 .main{
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 800;
     text-align: center;
     margin: 0 30px;
