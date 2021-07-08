@@ -5,8 +5,26 @@
     font-family: 'Raleway', sans-serif;
 }
 
+.avt{
+    width: 130px;
+    height: 130px;
+    background-color: burlywood;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
 h1{
     text-align: center;
-    margin-top: 40px;
+    margin: 20px auto 100px;
     font-weight: 800;
+    font-size: 30px;
+}
+
+.main{
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    margin: 0 30px;
 }
